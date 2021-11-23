@@ -1,7 +1,7 @@
 ### ![](./rising_hand.png) Hi friends, I'm Behnam and this in my one pager.
 
 This is what you can find about me in [Linkedin][2]:
-> Experienced web developer with focused on front-end and took part in many projects as a full-stack developer. Self-learning capabilities with a bachelor's degree in Software Engineering. Skilled in many coding and designing tools like Git, VSC, Material UI, Jira, Test Cases, Adobe Photoshop, Adobe Illustrator, Adobe XD and many others.
+> Passionate full-stack (front-end heavy) software developer with commercial experience since 2012. Bachelor's degree in Software Engineering. Self-learning capabilities. Skilled in many coding and designing tools.
 
 It's just the formal side 🙃. In fact, I'm a developer who loves to learn when I find some time. Also, I'm someone who
 enjoys sharing, I share everything that I can, It could be an article in my blog, a simple code snippet, or even a
