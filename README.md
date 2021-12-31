@@ -1,7 +1,7 @@
 ### ![](./rising_hand.png) Hi friends, I'm Behnam and this in my one pager.
 
 This is what you can find about me in [Linkedin][2]:
-> Passionate full-stack (front-end heavy) software developer with commercial experience since 2012. Bachelor's degree in Software Engineering. Self-learning capabilities. Skilled in many coding and designing tools.
+> Passionate software developer with professional experience since 2012. Experienced web developer focused on the front-end and took part in many projects as a full-stack developer. Bachelor's degree in Software Engineering. Self-learning capabilities. Skilled in many coding and designing tools. Good at algorithmic problem-solving approaches and team working.
 
 It's just the formal side 🙃. In fact, I'm a developer who loves to learn when I find some time. Also, I'm someone who
 enjoys sharing, I share everything that I can, It could be an article in my blog, a simple code snippet, or even a
