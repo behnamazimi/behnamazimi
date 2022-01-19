@@ -19,6 +19,9 @@ You can find more about me in my personal website **[bhnmzm.com][7]**.
 [![Telegram][10.6]][5]
 [![Medium][10.5]][6]
 
+![](https://komarev.com/ghpvc/?username=behnamazimi&color=green)
+
+
 <!-- Links -->
 [1]: https://twitter.com/bhnmzm/
 [2]: https://www.linkedin.com/in/bhnmzm/
