@@ -1,13 +1,12 @@
-### ![](./rising_hand.png) Hi friends, I'm Behnam and this in my one pager.
+### ![](./rising_hand.png) Hey! I'm Behnam.
 
-This is what you can find about me in [Linkedin][2]:
-> Passionate software developer with professional experience since 2012. Experienced web developer focused on the front-end and took part in many projects as a full-stack developer. Bachelor's degree in Software Engineering. Self-learning capabilities. Skilled in many coding and designing tools. Good at algorithmic problem-solving approaches and team working.
+I have spent a big part of my life behind a screen to probe, investigate and learn new things, and I even gained many of my hobbies from these screens but I don’t like video games. I’m also not good at any sport but I won't leave my friends alone. I like watching movies, I love reading and I hate ignorance of any kind. IMHO, geographical borders are meaningless and what matters is humanity and any kind of patriotism and nationalism will cause failure in the long run.
 
-It's just the formal side 🙃. In fact, I'm a developer who loves to learn when I find some time. Also, I'm someone who
-enjoys sharing, I share everything that I can, It could be an article in my blog, a simple code snippet, or even a
-smile :).
+In my carrier, I chose to gravitate and focus more on front-end engineering but took part in many projects with different titles and responsibilities. At the moment I call myself a javascript developer who can write simple scripts with GoLang and Python.
 
-You can find more about me in my personal website **[bhnmzm.com][7]**.
+I'm 30 now and I have loved coding since I was 11, I believe this love led me to study software engineering. I graduated in 2015 with a bachelor's degree.
+
+You can find more about me in my personal website **[bhnmzm.com][7]** or my [Linkedin profile][2].
 
 ---
 #### 👇 You can find me on 
