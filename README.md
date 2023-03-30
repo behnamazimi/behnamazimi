@@ -22,7 +22,7 @@ You can find more about me in my personal website **[bhnmzm.com][7]** or my [Lin
 
 
 <!-- Links -->
-[1]: https://twitter.com/bhnmzm/
+[1]: https://twitter.com/behnam_zm/
 [2]: https://www.linkedin.com/in/bhnmzm/
 [3]: https://codepen.io/bhnmzm
 [4]: https://stackoverflow.com/users/3534952
