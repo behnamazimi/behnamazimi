@@ -2,9 +2,10 @@
 
 I have spent a big part of my life behind a screen to probe, investigate and learn new things, and I even gained many of my hobbies from these screens but I don’t like video games. I’m also not good at any sport but I won't leave my friends alone. I like watching movies, I love reading and I hate ignorance of any kind. IMHO, geographical borders are meaningless and what matters is humanity and any kind of patriotism and nationalism will cause failure in the long run.
 
-In my carrier, I chose to gravitate and focus more on front-end engineering but took part in many projects with different titles and responsibilities. At the moment I call myself a javascript developer who can write simple scripts with GoLang and Python.
+In my carrier, I chose to gravitate and focus more on front-end engineering but took part in many projects with different titles and responsibilities. At the moment I call myself a frontend engineer who can write simple scripts with GoLang and Python.
 
-I'm 30 now and I have loved coding since I was 11, I believe this love led me to study software engineering. I graduated in 2015 with a bachelor's degree.
+I'm 31 years old now, and I've had a soft spot for coding since I was 11. That love eventually led me to study software engineering, and I earned my bachelor's degree in 2015.
+
 
 You can find more about me in my personal website **[bhnmzm.com][7]** or my [Linkedin profile][2].
 
