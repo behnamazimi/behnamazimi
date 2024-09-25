@@ -11,7 +11,6 @@ You can find more about me in my personal website **[bhnmzm.com][7]** or my [Lin
 ---
 #### 👇 You can find me on 
 
-[![Twitter][10.1]][1]
 [![Linkedin][10.2]][2]
 [![Codepen][10.3]][3]
 [![StackOverflow][10.4]][4]
@@ -22,7 +21,6 @@ You can find more about me in my personal website **[bhnmzm.com][7]** or my [Lin
 
 
 <!-- Links -->
-[1]: https://twitter.com/behnam_zm/
 [2]: https://www.linkedin.com/in/bhnmzm/
 [3]: https://codepen.io/bhnmzm
 [4]: https://stackoverflow.com/users/3534952
