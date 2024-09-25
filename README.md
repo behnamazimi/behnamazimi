@@ -4,8 +4,7 @@ I have spent a big part of my life behind a screen to probe, investigate and lea
 
 In my carrier, I chose to gravitate and focus more on front-end engineering but took part in many projects with different titles and responsibilities. At the moment I call myself a frontend engineer who can write simple scripts with GoLang and Python.
 
-I'm 31 years old now, and I've had a soft spot for coding since I was 11. That love eventually led me to study software engineering, and I earned my bachelor's degree in 2015.
-
+I'm 33 years old now, and I've had a soft spot for coding since I was 11. That love eventually led me to study software engineering, and I earned my bachelor's degree in 2015.
 
 You can find more about me in my personal website **[bhnmzm.com][7]** or my [Linkedin profile][2].
 
