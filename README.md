@@ -2,7 +2,7 @@
 
 I’m a 33-year-old curious human who happens to be good at Frontend Engineering.
 
-To be honest, most of my life is spent behind a screen. While others use screens for video games, mine are for probing, investigating, and building. This has been my world since age 11, and the excitement of a script running—whether a complex web app or a messy Python automation—never fades.
+To be honest, most of my life is spent behind a screen. While others use screens for video games, mine are for probing, investigating, and building. This has been my world since age 11, and the excitement of a script running successfully, whether a complex web app or a messy Python automation.
 
 Things I believe in:
 * Reading books beats ignorance every time.
