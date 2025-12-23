@@ -1,30 +1,23 @@
-### ![](./rising_hand.png) Hey! I'm Behnam.
+### ![](./rising_hand.png) Hi, I’m Behnam. 👋
 
-I have spent a big part of my life behind a screen to probe, investigate and learn new things, and I even gained many of my hobbies from these screens but I don’t like video games. I’m also not good at any sport but I won't leave my friends alone. I like watching movies, I love reading and I hate ignorance of any kind. IMHO, geographical borders are meaningless and what matters is humanity and any kind of patriotism and nationalism will cause failure in the long run.
+I’m a 33-year-old curious human who happens to be good at Frontend Engineering.
 
-In my carrier, I chose to gravitate and focus more on front-end engineering but took part in many projects with different titles and responsibilities. At the moment I call myself a frontend engineer who can write simple scripts with GoLang and Python.
+To be honest, most of my life is spent behind a screen. While others use screens for video games, mine are for probing, investigating, and building. This has been my world since age 11, and the excitement of a script running—whether a complex web app or a messy Python automation—never fades.
 
-I'm 33 years old now, and I've had a soft spot for coding since I was 11. That love eventually led me to study software engineering, and I earned my bachelor's degree in 2015.
+Things I believe in:
+* Reading books beats ignorance every time.
+* Friends are family.
+* The world is one place, and nationalism usually just breaks things.
 
+I write code, read and watch, take notes on paper, and try to be a decent human being.
+		
 You can find more about me in my personal website **[bhnmzm.com][7]** or my [Linkedin profile][2].
-
----
-#### 👇 You can find me on 
-
-[![Linkedin][10.2]][2]
-[![Codepen][10.3]][3]
-[![StackOverflow][10.4]][4]
-[![Telegram][10.6]][5]
-[![Medium][10.5]][6]
 
 <!-- ![](https://komarev.com/ghpvc/?username=behnamazimi&color=green) -->
 
 
 <!-- Links -->
 [2]: https://www.linkedin.com/in/bhnmzm/
-[3]: https://codepen.io/bhnmzm
-[4]: https://stackoverflow.com/users/3534952
-[5]: https://t.me/bhnmzm/
 [6]: https://behnamazimi.medium.com/
 [7]: https://bhnmzm.com/
 
